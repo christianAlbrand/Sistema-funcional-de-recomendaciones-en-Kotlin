@@ -1,0 +1,7 @@
+{
+  "totalProductsEvaluated": 200,
+  "totalRecommendations": 140,
+  "averageScore": 23.571428571428573,
+  "recommendationsByCategory": { "books": 40,"fashion": 40,"sports": 40,"electronics": 20 },
+  "rejectionReasons": { "Pertenece a una categoria bloqueada": 40,"Sin stock disponible": 20 }
+}

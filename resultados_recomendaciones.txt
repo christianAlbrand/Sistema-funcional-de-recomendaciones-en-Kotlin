@@ -1,0 +1,19 @@
+=== RESULTADOS DE RECOMENDACIONES ===
+
+PRODUCTO: Product Name 1 (ID: 1)
+Categoría: books | Precio: $11.0 | Rating: 2.0
+Puntuación Total: 40.0
+Razones:
+  - Coincide con una categoria preferida (books)
+-------------------------
+PRODUCTO: Product Name 101 (ID: 101)
+Categoría: books | Precio: $11.0 | Rating: 2.0
+Puntuación Total: 40.0
+Razones:
+  - Coincide con una categoria preferida (books)
+-------------------------
+PRODUCTO: Product Name 201 (ID: 201)
+Categoría: books | Precio: $11.0 | Rating: 2.0
+Puntuación Total: 40.0
+Razones:
+  - Coincide con una categoria preferida (books)
